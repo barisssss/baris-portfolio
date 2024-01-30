@@ -22,7 +22,7 @@ const Layout = ({ pageTitle, children }) => {
 
   return (
     <div className={container}>
-    <header className={siteTitle}>{data.site.siteMetadata.title}</header>
+    <header className="text-3xl font-bold underline">{data.site.siteMetadata.title}</header>
       <nav>
         <ul className={navLinks}>
           <li className={navLinkItem}>
