@@ -3,7 +3,7 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `baris-portfolio`,
+    title: `barisssss.github.io`,
     siteUrl: `https://www.yourdomain.tld`,
   },
   plugins: [
