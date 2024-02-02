@@ -1,0 +1,97 @@
+{
+    "interests": [
+        {
+            "label": "HTML5",
+            "image": {
+                "src": "../../images/html5.png",
+                "alt": "",
+                "objectFit": ""
+            }
+        },
+        {
+            "label": "Javascript",
+            "image": {
+                "src": "../../images/js.png",
+                "alt": "",
+                "objectFit": ""
+            }
+        },
+        {
+            "label": "React",
+            "image": {
+                "src": "../../images/react.png",
+                "alt": "",
+                "objectFit": ""
+            }
+        },
+        {
+            "label": "Angular",
+            "image": {
+                "src": "../../images/angular.png",
+                "alt": "",
+                "objectFit": ""
+            }
+        },
+        {
+            "label": "UX/UI Prototyping",
+            "image": {
+                "src": "../../images/ux.png",
+                "alt": "",
+                "objectFit": ""
+            }
+        },
+        {
+            "label": "Photo & Video Editing",
+            "image": {
+                "src": "../../images/photo-video.png",
+                "alt": "",
+                "objectFit": ""
+            }
+        },
+        {
+            "label": "PHP",
+            "image": {
+                "src": "../../images/php.png",
+                "alt": "",
+                "objectFit": ""
+            }
+        },
+        {
+            "label": "Laravel",
+            "image": {
+                "src": "../../images/laravel.png",
+                "alt": "",
+                "objectFit": ""
+            }
+        },
+        {
+            "label": "Photography",
+            "image": {
+                "src": "../../images/camera.png",
+                "alt": "",
+                "objectFit": ""
+            }
+        },
+        {
+            "label": "Football",
+            "image": {
+                "src": "../../images/futbol.png",
+                "alt": "",
+                "objectFit": ""
+            }
+        },
+        {
+            "label": "Music",
+            "image": {
+                "src": "../../images/music.png",
+                "alt": "",
+                "objectFit": ""
+            }
+        }
+    ],
+    "button": {
+        "visible": true,
+        "label": "More",
+        "initiallyShownInterests": 5
+    }
+}

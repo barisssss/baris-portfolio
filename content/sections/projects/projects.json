@@ -1,0 +1,70 @@
+{
+    "projects": [
+        {
+            "visible": true,
+            "category": "Web Development",
+            "title": "cunio",
+            "description": "A multi platform Proptech startup I was involved with from 2018-2020. As Junior Full Stack Developer I was responsible for various tasks regarding the development of their Frontend Apps written in React & Angular, as well as being involved in their Backend Services written in Laravel.",
+            "tags": ["React", "Angular", "Laravel", "PHP"],
+            "image": {
+                "src": "../../images/cunio.jpg",
+                "alt": "",
+                "linkTo": "https://cunio.de",
+                "objectFit": "cover"
+            },
+            "links": [
+                {
+                    "type": "external",
+                    "url": "https://cunio.de"
+                }
+            ]
+        },
+        {
+            "visible": true,
+            "category": "Web Development",
+            "title": "NFDI4Culture",
+            "description": "Supported by the German Federal Government, the NFDI4Culture consortium is developing a research data infrastructure for the humanities and cultural sciences. As a working student I was part of the Culture Portal Development Team, which is responsible for the TYPO3 based Culture Portal, as well as the development of various Typoscript based extensions and the integration of the Culture Portal into the NFDI4Culture ecosystem.",
+            "tags": ["TYPO3", "Typoscript", "PHP"],
+            "image": {
+                "src": "../../images/nfdi4c.png",
+                "alt": "",
+                "linkTo": "https://nfdi4culture.de",
+                "objectFit": "contain"
+            },
+            "links": [
+                {
+                    "type": "external",
+                    "url": "https://nfdi4culture.de"
+                }
+            ]
+        },
+        {
+            "visible": true,
+            "category": "VSCode Extension Development",
+            "title": "PDRemote",
+            "description": "PDRemote is a Visual Studio Code extension that allows you to remotely control your Pure Data patches. It is based on the Pure Data OSC implementation and allows you to send and receive OSC messages to and from your Pure Data patches. I developed this extension as part of a Music Programming seminar in my Master Studies.",
+            "tags": ["Javascript", "Pure Data", "OSC"],
+            "image": {
+                "src": "../../images/pdremote.png",
+                "alt": "",
+                "linkTo": "https://github.com/barisssss/pdRemoteVscode",
+                "objectFit": "cover"
+            },
+            "links": [
+                {
+                    "type": "github",
+                    "url": "https://github.com/barisssss/pdRemoteVscode"
+                },
+                {
+                    "type": "external",
+                    "url": "https://marketplace.visualstudio.com/items?itemName=barisssss.pd-remote-vscode"
+                }
+            ]
+        }
+    ],
+    "button": {
+        "visible": false,
+        "label": "",
+        "url": ""
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "siteMetadata": {
+        "language": "en",
+        "siteUrl": "www.barisaltun.de",
+        "title": "Baris Altun",
+        "titleTemplate": "%s · Portfolio",
+        "description": "Baris Altun, Web Developer from Frankfurt, Germany",
+        "author": "Baris Altun",
+        "avatar": "../images/avatar.jpg",
+        "bio": "",
+        "social": {
+            "behance": "",
+            "buymeacoffee": "",
+            "devto": "",
+            "discord": "",
+            "dribble": "",
+            "github": "https://github.com/barisssss",
+            "gitlab": "",
+            "goodreads": "",
+            "hashnode": "",
+            "instagram": "",
+            "linkedin": "https://www.linkedin.com/in/baris-altun-3b3175165",
+            "mail": "mailto:barisaltun96@gmail.com",
+            "mastodon": "",
+            "medium": "",
+            "twitter": "",
+            "twitch": "",
+            "patreon": "",
+            "reddit": "",
+            "untappd": "",
+            "stackoverflow": "",
+            "youtube": ""
+        }
+    },
+    "siteConfiguration": {
+        "logo": { "text": "Baris Altun" },
+        "navigation": {
+            "header": [
+                { "label": "Skills & Interests", "url": "/#interests" },
+                { "label": "Projects", "url": "/#projects" },
+                { "label": "Github", "url": "https://github.com/barisssss" }
+            ],
+            "ctaButton": { "openNewTab": true, "label": "Resume", "url": "/resume.pdf" },
+            "footer": [
+                { "label": "Privacy", "url": "/privacy" },
+                { "label": "Imprint", "url": "/imprint" }
+            ]
+        },
+        "featureToggles": {
+            "useDarkModeAsDefault": false,
+            "useDarkModeBasedOnUsersPreference": false,
+            "useCookieBar": false
+        }
+    }
+}

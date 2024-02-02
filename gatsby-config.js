@@ -21,5 +21,6 @@ module.exports = {
       __key: "blog",
     },
     "gatsby-plugin-mdx",
+    "gatsby-theme-portfolio-minimal"
   ],
 };

@@ -1,0 +1,29 @@
+{
+    "intro": "Hi there!",
+    "heroPhoto": {
+        "src": "../../images/avatarlg.png",
+        "alt": "avatar"
+    },
+    "image": {
+        "src": "",
+        "alt": "",
+        "objectFit": ""
+    },
+    "title": "I'm Baris Altun.",
+    "subtitle": {
+        "prefix": "I like to ",
+        "highlight": "make",
+        "suffix": " things."
+    },
+    "description": "I'm a software developer based in Frankfurt, Germany. I enjoy designing, building and maintaining websites and web applications. If you have a project in mind, are an employer looking to hire or just want to say hi, feel free to contact me!",
+    "socialProfiles": {
+        "from": ["github", "mail", "linkedin"],
+        "showIcons": false
+    },
+    "calendly": {
+        "label": "",
+        "username": "",
+        "colorText": "",
+        "colorButton": ""
+    }
+}
