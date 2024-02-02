@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkbaris_portfolio=self.webpackChunkbaris_portfolio||[]).push([[936],{9300:function(e,t,n){n.r(t),n.d(t,{Head:function(){return s}});var r=n(1504),c=n(1512);const s=()=>r.createElement(c.yc,{title:"Home"});t.default=()=>r.createElement(c.K2,null,r.createElement(c.OS,{sectionId:"hero"}),r.createElement(c.Cc,{sectionId:"interests",heading:"Skills & Interests"}),r.createElement(c.Gi,{sectionId:"projects",heading:"Projects"}))}}]);
+//# sourceMappingURL=component---src-pages-index-js-035b8aeb6b8ebe3dedd5.js.map
